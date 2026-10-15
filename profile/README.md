@@ -1,5 +1,3 @@
-![Thidow](/assets/og.png)
-
 ## Get Involved
 
 Whether you're a developer, an early user, or someone who believes in what Thidow is trying to achieve, there are many ways to get involved. Explore the project, share your feedback, report issues, or contribute ideas that can help make Thidow better.
